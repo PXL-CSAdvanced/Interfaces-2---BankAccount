@@ -24,7 +24,7 @@
     ![saldo](media/saldo.png)
 
 > [!CAUTION]
-> - Het saldo kan nooit kleiner zijn dan 0! Maak hiervoor een class *AccountException* die de standaard *Exception* class implementeert 
+> - Het saldo kan nooit kleiner zijn dan 0! Maak hiervoor een class *AccountException* die de standaard *Exception* class implementeert. 
 
 ## Extra
 - Hou een lijst van transacties bij per account en toon deze in een ListBox
